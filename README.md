@@ -8,15 +8,12 @@ An end-to-end data analytics project that studies **3,900 retail purchases** to 
 
 ## Table of Contents
 
-1. [Business Problem](#business-problem)
-2. [Dataset](#dataset)
-3. [Project Workflow](#project-workflow)
-4. [Key Findings](#key-findings)
-5. [Dashboard](#dashboard)
-6. [Business Recommendations](#business-recommendations)
-7. [Repository Structure](#repository-structure)
-8. [How to Run](#how-to-run)
-9. [Author](#author)
+1. [Business Problem]
+2. [Dataset]
+3. [Project Workflow]
+4. [Key Findings]
+5. [Dashboard]
+6. [Business Recommendations]
 
 ---
 
@@ -94,12 +91,6 @@ An interactive dashboard with KPI cards, subscription split, sales and revenue b
 
 ---
 
-## Dashboard
-
-![Customer Behaviour Dashboard](images/dashboard.png)
-
-
----
 
 ## Business Recommendations
 
@@ -110,7 +101,3 @@ An interactive dashboard with KPI cards, subscription split, sales and revenue b
 5. **Target marketing:** Focus on the highest-revenue age groups and on express-shipping customers.
 
 --<img width="1302" height="746" alt="Screenshot 2026-11-26 122302" src="https://github.com/user-attachments/assets/3f5c1bbe-04be-48d6-a3a0-0939fe3031f7" />
-
-
-**<Your Name>**
-[GitHub](https://github.com/<your-username>) · [LinkedIn](https://www.linkedin.com/in/<your-profile>)
